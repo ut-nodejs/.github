@@ -11,6 +11,6 @@ This repository contains the course materials for the [Computer Science](https:/
 - Aaron Snowberger ([aaron@g.ut.ac.kr](aaron@g.ut.ac.kr)), Graduate School of Information & Communications Engineering, Hanbat University
 - 에런 스노버거, 정보통신공학과, 한밭대학교
 
-## Online Classroom / 온라인 클래스룸
+### Online Classroom / 온라인 클래스룸
 
 [GitHub Classroom](https://github.com/ut-nodejs)
